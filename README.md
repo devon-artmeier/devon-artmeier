@@ -1,16 +1,14 @@
-### Hi there 👋
+## About Me
+I am a hobbyist programmer who has been enjoying tinkering around with the Sega Genesis and Sega CD for over a decade. I have experience programming in
+C, C++, C#, Python, and Motorola 68000 Assembly, alongside experience working with OpenGL/WebGL. I've also been picking up web development, including
+programming in TypeScript.
 
-<!--
-**devon-artmeier/devon-artmeier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help run a [Twitter/X account](https://twitter.com/SCDDeconstruct) that documents the inner workings of the classic Sega Genesis Sonic the Hedgehog titles.
+This includes showing snippets of code, datamining efforts, restored unused content, and visualizations, all accomplished through reverse engineering efforts.
 
-Here are some ideas to get you started:
+My current pet projects involves researching the fine details of how the Sega Genesis hardware works and building my own emulator based off that, alongside
+aiding others in understanding these details and contributing to other various Sega Genesis related projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Statistics
+![Devons's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devon-artmeier&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=material-palenight)&nbsp;&nbsp;
+[![Devon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devon-artmeier&layout=compact&theme=material-palenight)](https://github.com/devon-artmeier)
