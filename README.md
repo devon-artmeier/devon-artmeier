@@ -10,5 +10,5 @@ My current pet projects involves researching the fine details of how the Sega Ge
 aiding others in understanding these details and contributing to other various Sega Genesis related projects.
 
 ## GitHub Statistics
-![Devons's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devon-artmeier&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=material-palenight)&nbsp;&nbsp;
+![Devons's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devon-artmeier&show_icons=true&hide_title=true&hide_rank=true&theme=material-palenight)&nbsp;&nbsp;
 [![Devon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devon-artmeier&layout=compact&theme=material-palenight)](https://github.com/devon-artmeier)
