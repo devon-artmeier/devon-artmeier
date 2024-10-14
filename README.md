@@ -11,4 +11,4 @@ aiding others in understanding these details and contributing to other various S
 
 ## GitHub Statistics
 ![Devons's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devon-artmeier&show_icons=true&hide_title=true&exclude_repo=glad-opengl-3.2&theme=material-palenight)&nbsp;&nbsp;
-[![Devon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devon-artmeier&layout=compact&exclude_repo=glad-opengl-3.2,gametap-32x,gametap-32x-build-helper,gpgx-debugger,gpgx-api,vst-datamosher&theme=material-palenight)](https://github.com/devon-artmeier)
+[![Devon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devon-artmeier&layout=compact&theme=material-palenight)](https://github.com/devon-artmeier)
